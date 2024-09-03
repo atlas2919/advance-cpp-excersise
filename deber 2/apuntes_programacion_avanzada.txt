@@ -1,0 +1,57 @@
+18 Enero
+Paso de parámetros:   por valor, por referencia y por dirección (puntero).
+funcion trabaja con una copia, separada de la original.-
+
+Arreglos : primitivos  ,NO  clase Array ni Vector
+El nombre de un arreglo es un puntero fijo (const)  a la primera posicion del arreglo
+
+Punteros sirve para manejar memoria dinámica
+
+manejar memoria dinámica:  Pedir y devolver areas de memoria de tamaño variable en la ejecucion del programa
+fuentes de memoria : stack , heap.
+stack:  Area de memoria de tamaño fijo que se asigna a cada programa para su uso particular. Tamño fijo por default. Aqui se crean las variables de un programa.
+
+heap: Area de memoria de tamaño variable, controlada por el SO y todos los programas en ejecución puede pedir memoria de esta área. 
+C++:   Pide (new) , devuelve (delete);
+C:  Pide (allos, malloc) , devuelve (free);
+
+Deber1:  crear un programa que lee 3 variables y determina la mayor. Solo notación de punteros.
+
+16 Enero
+Deberes : cpp y h .   No directorios ni archivos extras.
+NO inserten tildes ni ñ en el código. Ni siquiera en los comentarios.
+int año,   //error
+int anio.
+
+// codigo del libro
+
+Puntero: variable numerica cuyo contenido se interpreta como direccion de memoria.
+
+1 principio de ing software:  No escriban código confuso. 
+
+float a,b;
+
+int* countPtr, count; // NO, es confuso
+
+int* countPtr;  // countPtr es un puntero a una variableaentere
+int count;  // entero
+
+C, C++:   valores numericos se pueden interopretar como lógicos
+true:   distinto de cero
+false ; igual a cero
+
+x *= 2;
+x = x * 2;
+
+m = 0;
+if (m != 0) 
+   s1;
+else
+   s2;
+
+                       *                    &
+declaración     define puntero          referencia
+ejecución        extrae contenido       extrae la dirección
+
+Paso de parámetros:   por valor, por referencia y por dirección (puntero).
+

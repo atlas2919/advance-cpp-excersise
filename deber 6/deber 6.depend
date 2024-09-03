@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1708541530 source:c:\users\kronus\desktop\deberes programacion avanzada\deber 6\main.cpp
+	<iostream>
+
+1708542661 source:c:\users\kronus\desktop\deberes programacion avanzada\deber 6\integerset.cpp
+	"IntegerSet.h"
+	<sstream>
+
+1708541572 c:\users\kronus\desktop\deberes programacion avanzada\deber 6\integerset.h
+	<string>
+	<iostream>
+

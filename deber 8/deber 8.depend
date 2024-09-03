@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1709743615 source:c:\users\kronus\desktop\deberes programacion avanzada\deber 8\complex.cpp
+	<string>
+	"Complex.h"
+
+1709743656 c:\users\kronus\desktop\deberes programacion avanzada\deber 8\complex.h
+	<iostream>
+
+1709743656 source:c:\users\kronus\desktop\deberes programacion avanzada\deber 8\main.cpp
+	"Complex.h"
+

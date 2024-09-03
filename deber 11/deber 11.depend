@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1712289493 source:c:\users\kronus\desktop\deberes programacion avanzada\deber 11\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+

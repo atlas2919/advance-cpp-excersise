@@ -1,0 +1,3 @@
+Codigo    Nombre              Apellido            Aporte IESS    Retención IR   Fondo Res.     Décimo Tercero Décimo Cuarto  Sueldo Líquido 
+=========================================================================================================
+32765                                             8.05242e-24    0              7.09806e-24    7.1009e-24     7.1009e-24     9.13601e-23    

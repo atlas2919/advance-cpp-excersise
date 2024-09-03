@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1714607861 source:c:\users\kronus\desktop\deberes programacion avanzada\proyecto\empleado.cpp
+
+1714607861 source:c:\users\kronus\desktop\deberes programacion avanzada\proyecto\gerente.cpp
+
+1714613031 source:c:\users\kronus\desktop\deberes programacion avanzada\proyecto\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<string>
+	<iomanip>
+	<algorithm>
+	<cmath>
+

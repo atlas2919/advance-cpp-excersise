@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1707846500 source:c:\users\kronus\desktop\deberes programacion avanzada\deber 5\main.cpp
+	<iostream>
+	"VicobaAccount.h"
+	<cstdlib>
+	<ctime>
+
+1707846559 c:\users\kronus\desktop\deberes programacion avanzada\deber 5\vicobaaccount.h
+

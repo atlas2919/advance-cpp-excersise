@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1709171111 source:c:\users\kronus\desktop\deberes programacion avanzada\deber 7\main.cpp
+	<fstream>
+	<cstdlib>
+	<ctime>
+	"MotorVehicle.h"
+
+1709170701 source:c:\users\kronus\desktop\deberes programacion avanzada\deber 7\motorvehicle.cpp
+	"MotorVehicle.h"
+
+1709170701 c:\users\kronus\desktop\deberes programacion avanzada\deber 7\motorvehicle.h
+	<iostream>
+	<string>
+
